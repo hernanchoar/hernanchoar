@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Hernán
 
-<!--
-**hernanchoar/hernanchoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador apasionado por la tecnología, los datos y la innovación
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Conocimientos Técnicos
+
+- **Lenguajes de Programación:**
+  - Python 🐍 | C# ⚙️ | SQL 🗃️
+- **Bases de Datos y Big Data:**
+  - Teradata | AWS Athena | Google Looker Studio
+- **Data Science y Machine Learning:**
+  - Jupyter Notebook 📓 | AWS SageMaker 🤖
+- **Automatización y Orquestación:**
+  - BMC Control-M ⚙️
+- **Cloud y Servicios Web:**
+  - AWS (S3, SageMaker, Athena) ☁️
+- **Desarrollo Front-End:**
+  - HTML5 🌐 | CSS3 🎨
+- **Game Dev:**
+  - Unity 2D 🎮
+
+---
+
+## 🚀 En qué estoy trabajando
+
+Actualmente, enfocado en integrar soluciones de datos en la nube y automatización de procesos, combinando mis conocimientos en programación, orquestación y visualización.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hernanchoar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanchoar&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+- 📧 [hernanchoar@gmail.com]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hernan-cortes-648541242/)  
+
+
+---
+
+> “El código es como el humor. Cuando tienes que explicarlo, no es tan bueno.” – Cory House
